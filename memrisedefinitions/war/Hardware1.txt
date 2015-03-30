@@ -1,0 +1,46 @@
+Bit (Binary digit)
+Either of the digits 0 or 1 used in the binary number system
+Nibble
+Consists of 4 bits or half a byte
+Number of bits in a byte
+8
+Number of bytes in a kilobyte
+1024
+Binary 1
+1
+Binary 4
+100
+Binary 6
+110
+Binary 9
+1001
+Boolean
+a subset of algebra used for creating true/false statements
+AND gate
+a Boolean operator which gives the value one if and only if all the operands are one, and otherwise has a value of zero
+OR gate
+a logical operation which gives the value one if at least one operand has the value one, and otherwise gives a value of zero.
+NOT gate
+a Boolean operator with only one variable that has the value one when the variable is zero and vice versa.
+Truth table
+Show the result of combining any two expression boolean expressions using the AND operator and the OR operator (or the NOT operator).
+Flashing the firmware
+updating/overwriting the firmware or data on ROM
+BIOS
+basic input output system, is stored on ROM so that the computer has boot-up instructions when the power is turned on.
+Hexadecimal
+relating to or using a system of numerical notation that has 16 rather than 10 as its base.
+Eye-typer
+A camera tracks the movement of a person’s eye and can detect which key they are looking at. They can then blink to select the key.
+Speech synthesis
+For users who are unable to communicate verbally, this will take text they type on the computer and then relay those words through speakers, using a variety of synthesised voices.
+Braille keyboard
+Used by people with poor or no sight in order to type text into a computer. The keys are embossed with the standard Braille character patterns.
+Foot mouse
+Replicates the functions of a normal mouse but made for people with limited use of hand movement. A trackball and buttons are designed to be easily operated by a foot.
+Joystick
+Requires a lot less physical movement than a mouse and can be used to control a pointer on the screen in the same way.
+Puff-suck switch
+Used by people who have severely limited physical mobility. With this devices the user interacts with the computer by blowing or sucking on a small tube.
+Voice Recognition
+For users who cannot easily use a keyboard. Spoken commands are translated by specialist software into text and sent to the computer.

@@ -1,0 +1,74 @@
+Machine code
+computer language that is directly understandable by a computer’s CPU
+Machine code
+Only language that a computer can understand
+Machine code
+The instructions – opcodes and operands - are represented by strings of bits – 1s and 0s
+Assembly Language
+Low level language - very similar to those in machine language – there is usually a one-to-one relationship between the assembly and machine code instructions
+Mnemonics
+Tools that are designed to help a person’s memory.In assembly language the mnemonics are English-like words used to represent the binary opcodes of machine language e.g. the mnemonic ADD is used in assembly language for the opcode 110001011
+Assembler
+translates the symbolic codes (mnemonics) of programs of an assembly language into machine language instructions
+High level language
+closer to human languages and are further removed from machine languages than assembly language
+High level language
+no one-to-one relationship between the instructions
+Assembly Language advantage
+requires less memory and execution time.
+Assembly Language advantage
+Allows hardware-specific complex jobs in an easier way
+Assembly Language advantage
+Suitable for time-critical jobs
+Assembly Language advantage
+Most suitable for writing interrupt service routines and other memory resident programs.
+High Level language advantage
+Faster program development
+High Level language advantage
+not necessary to remember the registers of the CPU and mnemonic instructions
+High Level language advantage
+Portability of a program from one machine to other. Each assembly language is specific to a particular type of CPU, but most high-level programming languages are generally portable across multiple architectures
+Compiler
+reads the whole high level code and translates it into a complete machine code program which is output as a new file and can be saved.
+Compiler advantage
+Translation is done once only and as a separate process. The program that is run is already translated into machine code so is much faster in execution
+Compiler disadvantage
+You cannot change the program without going back to the original source code, editing that and recompiling
+Interpreter
+Reads the source code one instruction or line at a time, converts this line into machine code and executes it. The machine code is then discarded and the next line is read.
+Interpreter advantage
+simple and you can interrupt it while it is running, change the program and either continue or start again
+Interpreter disadvantage
+every line has to be translated every time it is executed, even if it is executed many times as the program runs. And because of this interpreters tend to be slow.
+IDE
+Software application that provides facilities to computer programmers for software development.
+IDE
+Typically consists of a source code editor, debugger, complier or interpreter and may have a graphical interface (GUI).
+Source code editor
+Text editor designed specifically for the writing and editing of source code for computer programs
+Syntax highlighting
+Displays source code in different colours and fonts according to the category of terms - improves the readability and easier to spot mistakes
+Autocomplete
+Predicting a word or phrase that the user wants to type
+Auto Indent
+Automatically indent the next line if it is required when the Return key is pressed
+Debugger
+Used to test the code and highlight and remove programming errors. When an error is found, it will show its location in the code.
+Stepping
+Allows the code to be run and inspected one line at a time.
+Breakpoints
+intentional stopping of the program at a specified place so that the programmer can inspect the code
+Variable tracing
+Can see the values of variables at any stage in the running of the program
+Auto documentation
+Allows the automatic documentation of all the variables and modules used in a text. useful when teams of programmers are working on the same project to ensure that they all understand the coding
+Algorithm
+step-by-step procedure for solving a problem in a finite number of steps
+Logic error
+Bug or mistake in a program’s source code that results in incorrect or unexpected behaviour. e.g. Wrong operator used
+Array
+data structure that contains a group of linked elements which are usually of the same data type. They allow the storing of multiple pieces of data in one variable
+Syntax
+Defines how declarations, functions, commands, and other statements should be arranged.
+Syntax error
+Error in the source code of a program. Not following the syntax (rules) of a programming language

@@ -1,0 +1,96 @@
+Operating system
+A set of programs that controls how the user interacts with the hardware and software of a computer.
+Command line interface
+The user has to type in commands for the operating system
+Graphical user interface
+The user communicates with the operating system using windows, drop-down menus , icons and pointers (WIMP).
+Multitasking operating system
+An operating system enables several programs to be run on a computer at the same time.
+Client Operating System
+Usually a single user operating system where only one user can operate the computer at one time.
+Server Operating System
+Designed for multi-user computer systems and is responsible for the sharing of resources between the various users.
+Antivirus software
+Utility program that prevents harmful programs being installed and important files being changed. If a virus does install itself, the antivirus software detects and removes it
+Disk Fragmenter
+Reorganise the structure of files so that all the files are together and all the free space is together. This can help the computer run faster
+Spyware detection
+Searches for and removes malicious software which can do things like display irritating advertising messages or collect your personal data.
+Firewall
+Prevents unauthorised access to your computer by people accessing it from the internet. Configured to block traffic from specific addresses or applications but allow useful ones access
+Off-the-shelf software
+Application software that is ready-made and available for sale to the general public.e.g. word processors, spreadsheets etc. Useful if no off-the-shelf that can do the job
+Bespoke software
+software that has been written specially for a user by a professional software developer. developer will analyse the user’s needs and then design and implement a solution to meet their requirements.
+Open Source software
+software whose source code is available for modification or enhancement by anyone, e.g. Open Office, Linux, Android.Can be upgraded by users and passed on for no charge
+Proprietary Software
+The code of this software cannot be modified by anyone but the organisation that made it. Commercially produced for profit. Users are allowed to use the software under licences that have lots of restrictions.
+Applications software
+Performs tasks that the user wants to do such as write a letter
+Systems software
+Performs tasks to do with managing the computer, for example the operating system.
+OS function
+Memory management - managing multiple programs and the data they use when in main memory, managing the space so all programs can run effectively
+OS function
+Peripheral management- managing input and output devices' communication with the CPU
+OS function
+Providing a user interface - providing a means of communication between the user and the hardware so users don’t have to communicate in binary
+OS function
+Security - protecting the computer from hazards such as unauthorised access
+Utility software
+Systems software that provides additional functionality to the operating system. Makes it easier to use
+System cleanup
+Deletes unnecessary files and settings so other files can be acessed quicker
+System information and diagnosis
+Gives information about the computer hardware and usage/information to diagnose problems so issues can be fixed/improved
+Advantage of off the shelf
+Cheaper than bespoke software
+Advantage of off the shelf
+It is available immediately
+Advantage of off the shelf
+Bug fixes and updates will be available regularly
+Advantage of off the shelf
+Help books and support available
+Disadvantage of open source
+May not want to share the new code with others
+Disadvantage of open source
+May not appear to be professional or user-friendly
+Disadvantage of open source
+Could be harder to find developers to create updates
+Disadvantage of open source
+may need specialist knowledge to install and develop the software
+Advantage of open source
+usually free to use
+Advantage of open source
+can modify the source code to adapt it to their needs
+Advantage of open source
+Constant upgrades are available
+Advantage of open source
+community of dedicated enthusiasts who will provide help and support
+Advantage of off the shelf
+tested by many users, so bugs will have been discovered and problems will have been solved
+Advantage of off the shelf
+Relitively cheap
+Disadvantage of off the shelf
+may not contain features that are needed by the user
+Disadvantage of off the shelf
+user may have to pay for features that they will never use
+Proprietary software
+cannot be modified by anyone but the person, team, or organisation that created it and maintains exclusive control over it.
+Proprietary software
+commercially produced by an organisation that does so to make a profit.
+Proprietary software
+Users are allowed to use the software under licences that have lots of restrictions.
+Proprietary advantage
+Owing to the profi t motive the software will be carefully developed and all bugs will have been discovered and problems solved
+Proprietary advantage
+It is in the interests of the producers to provide support.
+Proprietary advantage
+Producers will provide regular updates
+Proprietary disadvantage
+Must be paid for
+Proprietary disadvantage
+Support and updates may be expensive.
+Proprietary disadvantage
+not necessarily meet the needs of all users and cannot be modifed
