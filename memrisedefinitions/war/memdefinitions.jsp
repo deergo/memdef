@@ -23,6 +23,7 @@
 
 	<%
 	//http://localhost:8888/_ah/admin/datastore
+	
 	    String name="123";
 		out.print(x);
 		storeData("Software");
@@ -36,7 +37,7 @@
 </html>
 
 	<%!boolean x = false;
-
+int counter=0;
 	boolean storeData(String category) {
 		try {
 			Scanner reader = new Scanner(new File(category+".txt"));
@@ -59,6 +60,8 @@
 		 definition.setProperty("category", category);
 		    definition.setProperty("title", title);
 		 definition.setProperty("definition", def);
+		 definition.setProperty("id", counter);
+		 counter++;
 		    datastore.put(definition);
 		return false;
 	}
