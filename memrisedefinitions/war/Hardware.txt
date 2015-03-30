@@ -1,0 +1,196 @@
+Bit (Binary digit)
+Either of the digits 0 or 1 used in the binary number system
+Nibble
+Consists of 4 bits or half a byte
+Number of bits in a byte
+8
+Number of bytes in a kilobyte
+1024
+Binary 1
+1
+Binary 4
+100
+Binary 6
+110
+Binary 9
+1001
+Boolean
+a subset of algebra used for creating true/false statements
+AND gate
+a Boolean operator which gives the value one if and only if all the operands are one, and otherwise has a value of zero
+OR gate
+a logical operation which gives the value one if at least one operand has the value one, and otherwise gives a value of zero.
+NOT gate
+a Boolean operator with only one variable that has the value one when the variable is zero and vice versa.
+Truth table
+Show the result of combining any two expression boolean expressions using the AND operator and the OR operator (or the NOT operator).
+Flashing the firmware
+updating/overwriting the firmware or data on ROM
+BIOS
+basic input output system, is stored on ROM so that the computer has boot-up instructions when the power is turned on.
+Hexadecimal
+relating to or using a system of numerical notation that has 16 rather than 10 as its base.
+Eye-typer
+A camera tracks the movement of a personâ€™s eye and can detect which key they are looking at. They can then blink to select the key.
+Speech synthesis
+For users who are unable to communicate verbally, this will take text they type on the computer and then relay those words through speakers, using a variety of synthesised voices.
+Braille keyboard
+Used by people with poor or no sight in order to type text into a computer. The keys are embossed with the standard Braille character patterns.
+Foot mouse
+Replicates the functions of a normal mouse but made for people with limited use of hand movement. A trackball and buttons are designed to be easily operated by a foot.
+Joystick
+Requires a lot less physical movement than a mouse and can be used to control a pointer on the screen in the same way.
+Puff-suck switch
+Used by people who have severely limited physical mobility. With this devices the user interacts with the computer by blowing or sucking on a small tube.
+Voice Recognition
+For users who cannot easily use a keyboard. Spoken commands are translated by specialist software into text and sent to the computer.
+Clock Speed
+This factor determines how many operations a CPU can carry out per unit time
+Cores
+"A single CPU may contain numerous individual processors, called ..."
+3 Components of a CPU
+Control Unit, Arithmetic and logic unit (ALU), registers
+Binary
+Number system in base 2 that computers use to represent data and instructions
+ROM
+Type of non-volatile memory that holds crucial information such as the boot program. Permanent
+RAM
+Acts as a temporary store of data and program instructions so that they can be retrieved quickly by the CPU when they are required.
+Why random access?
+Each memory location (cell) can be accessed in any order if you know the ‘address’ of that location. This speeds up data retrieval as the CPU can go to any location and does not have to start each time at the fi rst location and go through them in order until it fi nds the correct one. That method is called ‘serial access’.
+Volatile
+Term used to describe memory that requires power to maintain the data stored within it
+Fetch-Decode-Execute
+The basic steps that a CPU carries out to process an instruction
+Virtual Memory
+Type of memory that combines your computers RAM with temporary space on your hard disk
+Cache
+"A small, high-speed type of memory that stores frequently used instructions or data"
+Control Unit
+Part of the CPU that co-ordinates the flow of data within the computer system
+Bus
+Part of a computer architecture that transfers data between different computer components
+Motherboard
+Central printed circuit board that holds the different computer components
+Flash storage
+"Memory type used by SSDs, USB drives and SD cards (derived from solid-state storage)"
+Input Device
+Any hardware device used to enter data into a computer system for processing
+Output Device
+Any hardware device used to present processed information to users
+Secondary storage
+Non-volatile method for storing large amounts of data for long term use
+Optical
+"Category of storage device which involves the use of lasers to read and write data, e.g. CD, DVD"
+Magnetic
+Category of storage device which includes traditional hard drives and floppy disks
+Solid State
+Category of storage device that does not use any moving parts
+Blu-ray
+A high-capacity type of optical disk pioneered by Sony for the storage of HD films and video games
+Actuator
+"Mechanical device that is controlled by computers, e.g. robotic arm, motor"
+Sensor
+"A device that can detect a physical property and records, indicates or responds to it"
+CPU
+Central processing unit - the brains of the computer where most calculations take place.
+Heat sink
+Used to cool central processing units or graphics processors.
+Why are Heat Sinks needed?
+The microprocessor carries out its millions of calculations per second and gets very hot. The heat sink absorbs the heat from the microprocessor before it damages it and the fan on top blows air onto it to move the heat away.
+Control unit
+responsible for controlling much of the operation of the rest of the processor. It does this by issuing control signals to the other areas of the processor,instructing them on what should be performed next. The decoder and the clock are elements of the control unit.
+Arithmetic logic unit (ALU)
+carries out mathematical and logical computations. e.g. addition, subtraction, logical test, comparisons etc
+Registers
+Register are memory locations within the CPU itself for storing data and instructions. They are designed to be quickly accessed for fast data retrieval.
+Fetch
+the program counter provides the memory address of the next instruction. This is transferred through the address bus to the memory and the instruction is transferred to the instruction register of the CPU through the data bus.
+Decode
+The decoder in the control unit works out what the instruction means
+Execute
+The control unit instructs the ALU to perform the computations required and the result is stored in one of the registers.
+Program counter
+This is a register in the CPU which stores the memory address of the next instruction to be fetched
+Address bus
+The memory address of the instruction to be fetched is transmitted from the program counter to the RAM through the address bus.
+Data bus
+The data is transmitted from RAM back to the instruction register in the CPU through the data bus.
+Cache
+A short term storage area
+CPU cache and main RAM difference
+CPU cache is much faster but more expensive
+Why is cache used?
+used to speed up certain computer operations by temporarily placing data, or a copy of it, in a location where it can be accessed more rapidly than normal. For example, data from a disk may be cached temporarily in memory so that it can be read and written more quickly than if it had to come directly from the disk itself
+disk cache
+a mechanism for improving the time it takes to read from or write to a hard disk drive. Can be on hard-disk or RAM. holds data that has recently been read and, in some cases, adjacent data areas that are likely to be accessed next.
+memory cache
+A part of RAM memory that is set aside as a specialised cache or buffer that is continually updated. used to store data eg large graphic files that are frequently read from the hard disk drive
+CPU cache
+used by the central processing unit of a computer to reduce the average time to access memory.
+SRAM
+Static RAM (makes up cache memory). Does not need to be constantly refreshed. as long as power is applied to the chip, SRAM will hold the data. It has lower latency.
+Level 1 cache
+is closer to the CPU than level 2 and is usually smaller in size. Usually built into the CPU
+Level 2 cache
+Usually resides on a separate chip next to CPU
+Web cache
+Folder full of webpages. If cached page has not been updated on the web, it is retrieved immediately by the browser, saving download time
+Processor development obstacle
+Too much heat is generated which cannot be dissipated fast enough. Transmission delays on the chip itself and between the memory and the CPU.
+Multi core system
+A single processor having several CPUs
+Multi processor system
+Several microprocessors each with a single CPU
+Multi core advantage 1
+Can work together on the same program
+Multi core advantage 2
+Can work on different programs at the same time
+Why is dual core usually faster
+Each CPU can process different parts of the same program simultaneously.
+How much data can be saved in each memory location?
+1 byte/8 bits
+Parallel processing
+When a CPU processes different parts of the same program simultaneously
+Why dual core doesn't mean twice as quick
+The tasks required to be done may not be able to be carried out in parallel. They may be sequential so that one task requires output from a previous task
+Dual core
+2 cores
+Quad core
+4 cores
+Hexa core
+6 cores
+In what form is data saved in RAM?
+Binary
+Scanner
+Reflected light from documents or photographs is captured by this device and then turned into a digital representation
+Touch screen
+Allows someone to interact directly with software on screen without the need for a mouse or separate keyboard
+Camera
+Uses light sensitive receptors to convert light into electrical signals which are then turned into a digital format and stored either as still or moving images
+Touch pad
+A touch-sensitive panel which responds to finger movement. Replicates the function of a mouse
+Microphone
+Converts sound waves into electrical signals
+Keypad
+Far fewer keys than a standard keyboard, quite often only numbers
+Magnetic Stripe Reader
+Reads data from a special magnetic stripe on a card when it is swiped
+Remote Control
+Used to input a variety of commands into a computer system, often via radio waves or Infrared
+Bar Code Reader
+Reads the light reflected back from a unique pattern of thin and thick white and black lines. This unique pattern is interrupted into a code or identification number
+RFID Reader
+Reads data from an electronic version of a bar code. Unlike a barcode this device does not require line of sight as it uses radio waves rather than light
+Plotter
+Designed to print precise drawings on to large sheets or rolls of paper
+Actuator
+Types of motors; many uses, but in general used for controlling specific systems or mechanisms. Highly specialised.
+Monitor
+Displays the results of computer processing to the user in a visual format
+Projector
+Used to enlarge an image from a computer display
+Printer
+Produces hard copy output of data stored in a computer
+Speaker
+Converts electrical signals into sound waves
